@@ -13,13 +13,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **App Development and Backend Development**
+- 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning Flutter and Erpnext
+- 🌱 I’m currently learning Frappe, Django, Docker, Kubernetes,FastAPI,Jenkins and Erpnext
 
-- 👯 I’m looking to collaborate on **Flutter Framework**
+- 👯 I’m looking to collaborate on **Frappe Framework**
 
-- 🤝 I’m looking for help with **Python, HTML, CSS, Dart, JS**
+- 🤝 I’m looking for help with **Python, HTML, CSS, JS**
 
 - ⚡ Fun fact **I am interested in Explore. Music is the best thing in my life. I want to travel Around the world!**
 
